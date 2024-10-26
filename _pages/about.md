@@ -24,13 +24,8 @@ In coastal and deep-water areas, shear currents with vorticity are often generat
 
 (3) We proposed a more physical solution that, compared with existing ones, can better describe waves with higher nonlinearity and in stronger currents.
 
-<img src="../images/fig2.svg" alt="Figure 2" style="width: 500px;">
+<img src="../images/fig2.svg" alt="Figure 2" style="width: 1000px;">
 
-
-<video width="320" height="180" controls>
-  <source src="../images/vedio1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 *Publication:*
 
