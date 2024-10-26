@@ -73,6 +73,8 @@ seabeds and porous structures. *Ocean Eng.*, 274: 114087. [doi: 10.1016/j.oceane
 
 As a co-author, I am responsible for the formulation of the theoretical solutions. We established solutions for wave attenuation by vegetation for both strong and weak currents, with a new parameteration for drag coefficient formulated.
 
+<img src="../images/fig3.svg" alt="Figure 3" style="width: 500px;">
+
 *Publication:*
 
 1. Huiran Liu, **Haiqi Fang**, Pengzhi Lin, 2024. A theoretical model for wave attenuation by vegetation considering current effects. *Coast. Eng.*,  190: 104508. [doi: 10.1016/j.coastaleng.2024.104508](https://doi.org/10.1016/j.coastaleng.2024.104508)
