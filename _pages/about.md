@@ -46,7 +46,7 @@ As my initial project, I studied wave transformation over porous structures. Str
 
 Publication:
 
-1. **Haiqi Fang**, Lian Tang, Pengzhi Lin, 2023. Homotopy analysis of wave transformation over permeable
+**Haiqi Fang**, Lian Tang, Pengzhi Lin, 2023. Homotopy analysis of wave transformation over permeable
 seabeds and porous structures. *Ocean Eng.*, 274: 114087. [doi: 10.1016/j.oceaneng.2023.114087](https://doi.org/10.1016/j.oceaneng.2023.114087)
 
 
