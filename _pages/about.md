@@ -31,9 +31,9 @@ In coastal and deep-water areas, shear currents with vorticity are often generat
   Your browser does not support the video tag.
 </video>
 
-Publication:
+*Publication:*
 
-**Haiqi Fang**, Philip L.-F. Liu, Lian Tang, Pengzhi Lin, 2023. The theory of fifth-order
+1. **Haiqi Fang**, Philip L.-F. Liu, Lian Tang, Pengzhi Lin, 2023. The theory of fifth-order
 			Stokes waves in a linear
 			shear current. *Proc. R. Soc. A*, 479: 20230565. [doi: 10.1098/rspa.2023.0565](https://doi.org/10.1098/rspa.2023.0565)
    
@@ -49,7 +49,7 @@ However, in practice, real resonance typically occurs when the ratio is less tha
   Your browser does not support the video tag.
 </video>
 
-Publication:
+*Publication:*
 
 1. **Haiqi Fang**, Lian Tang, Pengzhi Lin, 2024. Bragg scattering of nonlinear surface waves by sinusoidal sandbars. *J. Fluid Mech.*, 979: A13. [doi: 10.1017/jfm.2023.1005](https://doi.org/10.1017/jfm.2023.1005)
 
@@ -68,9 +68,9 @@ As my initial project, I studied wave transformation over porous structures. Str
 
 <img src="../images/fig1.svg" alt="Figure 1" style="width: 500px;">
 
-Publication:
+*Publication:*
 
-**Haiqi Fang**, Lian Tang, Pengzhi Lin, 2023. Homotopy analysis of wave transformation over permeable
+1. **Haiqi Fang**, Lian Tang, Pengzhi Lin, 2023. Homotopy analysis of wave transformation over permeable
 seabeds and porous structures. *Ocean Eng.*, 274: 114087. [doi: 10.1016/j.oceaneng.2023.114087](https://doi.org/10.1016/j.oceaneng.2023.114087)
 
 
