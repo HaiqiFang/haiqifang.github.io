@@ -59,7 +59,7 @@ Publication:
 
 ## Wave transformation over 2-D and 3-D permeable varying seabeds
 
-As my initial project, I studied wave transformation over porous structures. Strong nonlinearity and singularities, introduced by permeable effects, made the analysis rather challenging using traditional methods. For this reason, I was motivated to find a more effective tool, and the Homotopy analysis method was the ideal candidate due to its ability to decompose a nonlinear differential operator into linear ones. Eventually, I constructed Homotopy equations and introduced differential transformations to avoid singularities, and, for the first time, successfully proposed analytical solutions.
+As my initial project, I studied wave transformation over porous structures. Strong nonlinearity and singularities, introduced by permeable effects, made the analysis rather challenging using traditional methods. For this reason, I was motivated to find a more effective tool, and the Homotopy analysis method was the ideal candidate due to its ability to decompose a nonlinear differential operator into linear ones. Eventually, I constructed Homotopy equations and introduced differential transformations to avoid singularities, and successfully proposed analytical solutions.
 
 <div style="display: flex; justify-content: center;">
   <img src="../images/image1.gif" alt="Image 1" style="width: 250px; margin-right: 10px;">
