@@ -25,8 +25,7 @@ However, in practice, real resonance typically occurs when the ratio is less tha
   Your browser does not support the video tag.
 </video>
 
-
-### Publications
+Publication:
 
 1. **Haiqi Fang**, Lian Tang, Pengzhi Lin, 2024. Bragg scattering of nonlinear surface waves by sinusoidal sandbars. *J. Fluid Mech.*, 979: A13. [doi: 10.1017/jfm.2023.1005](https://doi.org/10.1017/jfm.2023.1005)
 
@@ -34,5 +33,14 @@ However, in practice, real resonance typically occurs when the ratio is less tha
 
 
 
-Getting started
-======
+## Wave transformation over permeable varying seabeds
+
+As my initial project, I studied wave transformation over porous structures. Strong nonlinearity and singularities, introduced by permeable effects, made the analysis rather challenging using traditional methods. For this reason, I was motivated to find a more effective tool, and the Homotopy analysis method was the ideal candidate due to its ability to decompose a nonlinear differential operator into linear ones. Eventually, I constructed Homotopy equations and introduced differential transformations to avoid singularities, and, for the first time, successfully proposed analytical solutions.
+
+Publication:
+
+1. **Haiqi Fang**, Lian Tang, Pengzhi Lin, 2023. Homotopy analysis of wave transformation over permeable
+seabeds and porous structures. *Ocean Eng.*, 274: 114087. [doi: 10.1016/j.oceaneng.2023.114087](https://doi.org/10.1016/j.oceaneng.2023.114087)
+
+
+
