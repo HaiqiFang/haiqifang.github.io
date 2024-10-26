@@ -38,11 +38,11 @@ Publication:
 As my initial project, I studied wave transformation over porous structures. Strong nonlinearity and singularities, introduced by permeable effects, made the analysis rather challenging using traditional methods. For this reason, I was motivated to find a more effective tool, and the Homotopy analysis method was the ideal candidate due to its ability to decompose a nonlinear differential operator into linear ones. Eventually, I constructed Homotopy equations and introduced differential transformations to avoid singularities, and, for the first time, successfully proposed analytical solutions.
 
 <div style="display: flex; justify-content: center;">
-  <img src="../images/image1.gif" alt="Image 1" style="width: 300px; margin-right: 10px;">
-  <img src="./images/image2.gif" alt="Image 2" style="width: 300px;">
+  <img src="../images/image1.gif" alt="Image 1" style="width: 150px; margin-right: 10px;">
+  <img src="./images/image2.gif" alt="Image 2" style="width: 150px;">
 </div>
 
-<img src="../images/fig1.svg" alt="Figure 1" style="width: 600px;">
+<img src="../images/fig1.svg" alt="Figure 1" style="width: 300px;">
 
 Publication:
 
