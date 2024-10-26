@@ -33,10 +33,10 @@ In coastal and deep-water areas, shear currents with vorticity are often generat
 
 Publication:
 
-1. **Haiqi Fang**, Lian Tang, Pengzhi Lin, 2024. Bragg scattering of nonlinear surface waves by sinusoidal sandbars. *J. Fluid Mech.*, 979: A13. [doi: 10.1017/jfm.2023.1005](https://doi.org/10.1017/jfm.2023.1005)
-
-2. **Haiqi Fang**, Lian Tang, Pengzhi Lin, 2024. Theoretical study on the downshift of class II Bragg resonance. *Phys. Fluids*, 36: 017103. [doi: 10.1063/5.0178754](https://doi.org/10.1063/5.0178754)
-
+**Haiqi Fang**, Philip L.-F. Liu, Lian Tang, Pengzhi Lin, 2023. The theory of fifth-order
+			Stokes waves in a linear
+			shear current. *Proc. R. Soc. A*, 479: 20230565. [doi: 10.1098/rspa.2023.0565](https://doi.org/10.1098/rspa.2023.0565)
+   
 
 ## Wave Scattering by coastal sandbars
 
