@@ -71,7 +71,7 @@ seabeds and porous structures. *Ocean Eng.*, 274: 114087. [doi: 10.1016/j.oceane
 
 ## Wave attenuation by vegetation considering current effects
 
-As my initial project, I studied wave transformation over porous structures. Strong nonlinearity and singularities, introduced by permeable effects, made the analysis rather challenging using traditional methods. For this reason, I was motivated to find a more effective tool, and the Homotopy analysis method was the ideal candidate due to its ability to decompose a nonlinear differential operator into linear ones. Eventually, I constructed Homotopy equations and introduced differential transformations to avoid singularities, and successfully proposed analytical solutions.
+As a co-author, I am responsible for the formulation of the theoretical solutions. We established solutions for wave attenuation by vegetation for both strong and weak currents, with a new parameteration for drag coefficient formulated.
 
 *Publication:*
 
