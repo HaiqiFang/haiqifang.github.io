@@ -14,7 +14,7 @@ My research interest includes coastal engineering, coastal oceanography and grav
 
 # Research projects
 
-## Bragg Scattering by coastal sandbars
+## Wave Scattering by coastal sandbars
 
 Natural sandbars in coastal seabeds can reflect surface waves, and classical theory indicates that resonance occurs when the ratio of the wavenumber of the sandbars to that of the incident waves equals two. Engineers have widely applied this to design artificial bars that protect coastal infrastructures. 
 
