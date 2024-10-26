@@ -42,6 +42,8 @@ As my initial project, I studied wave transformation over porous structures. Str
   <img src="./images/image2.gif" alt="Image 2" style="width: 300px;">
 </div>
 
+<img src="../images/fig1.svg" alt="Figure 1" style="width: 600px;">
+
 Publication:
 
 1. **Haiqi Fang**, Lian Tang, Pengzhi Lin, 2023. Homotopy analysis of wave transformation over permeable
