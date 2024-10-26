@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a first year PhD student in the department of Civil Engineering at Columbia University. My research interest includes coastal engineering, coastal oceanography and gravity surface waves.
+I am a first year PhD student in the department of Civil Engineering at Columbia University. I obtained my M.E. and B.E. at Sichuan Univeristy. 
+
+My research interest includes coastal engineering, coastal oceanography and gravity surface waves.
 
 A data-driven personal website
 ======
