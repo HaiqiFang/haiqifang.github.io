@@ -57,7 +57,7 @@ However, in practice, real resonance typically occurs when the ratio is less tha
 
 As my initial project, I studied wave transformation over porous structures. Strong nonlinearity and singularities, introduced by permeable effects, made the analysis rather challenging using traditional methods. For this reason, I was motivated to find a more effective tool, and the Homotopy analysis method was the ideal candidate due to its ability to decompose a nonlinear differential operator into linear ones. Eventually, I constructed Homotopy equations and introduced differential transformations to avoid singularities, and successfully proposed analytical solutions.
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: left;">
   <img src="../images/image1.gif" alt="Image 1" style="width: 250px; margin-right: 10px;">
   <img src="./images/image2.gif" alt="Image 2" style="width: 250px;">
 </div>
@@ -72,13 +72,6 @@ seabeds and porous structures. *Ocean Eng.*, 274: 114087. [doi: 10.1016/j.oceane
 ## Wave attenuation by vegetation considering current effects
 
 As my initial project, I studied wave transformation over porous structures. Strong nonlinearity and singularities, introduced by permeable effects, made the analysis rather challenging using traditional methods. For this reason, I was motivated to find a more effective tool, and the Homotopy analysis method was the ideal candidate due to its ability to decompose a nonlinear differential operator into linear ones. Eventually, I constructed Homotopy equations and introduced differential transformations to avoid singularities, and successfully proposed analytical solutions.
-
-<div style="display: flex; justify-content: center;">
-  <img src="../images/image1.gif" alt="Image 1" style="width: 250px; margin-right: 10px;">
-  <img src="./images/image2.gif" alt="Image 2" style="width: 250px;">
-</div>
-
-<img src="../images/fig1.svg" alt="Figure 1" style="width: 500px;">
 
 *Publication:*
 
