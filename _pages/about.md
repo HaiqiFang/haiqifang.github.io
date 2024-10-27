@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "About me"
 author_profile: true
@@ -5,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 
 I am a first year PhD student in the department of Civil Engineering at Columbia University. I obtained my M.E. and B.E. at Sichuan Univeristy. 
 
