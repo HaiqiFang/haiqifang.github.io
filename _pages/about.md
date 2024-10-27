@@ -96,4 +96,3 @@ As a co-author, I was responsible for the formulation of the theoretical solutio
 1. Huiran Liu, **Haiqi Fang**, Pengzhi Lin, 2024. A theoretical model for wave attenuation by vegetation considering current effects. *Coast. Eng.*,  190: 104508. [doi: 10.1016/j.coastaleng.2024.104508](https://doi.org/10.1016/j.coastaleng.2024.104508)
 
 </div>
-</div>
