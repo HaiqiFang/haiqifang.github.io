@@ -20,7 +20,7 @@ redirect_from:
 
 <p>This study focuses on liquid sloshing near secondary resonance. We formulated a new closed-form analytical solution to examine the differences in wave dynamics on the sup- and sub-sides of the secondary resonance. We discovered a phase transition when the excitation frequency exceeds the resonance point, demonstrating that second-order free surface waves dominate this process. Experiments support our findings, revealing how different behaviors influence breaking patterns and the dependence of the breaking point on external excitation amplitude.</p>
 
-<video width="500" controls>
+<video width="550" controls>
   <source src="./images/vedio5.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
