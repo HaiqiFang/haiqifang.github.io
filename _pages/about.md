@@ -19,9 +19,10 @@ My research interest includes coastal engineering, coastal oceanography and surf
 
 This study focuses on liquid sloshing near secondary resonance. We formulated a new closed-form analytical solution to study the difference of wave dynamics on the sup- and sub-sides of the secondary resonance. We discovered a phase transition as the exciation frequency exceeds the resonance point, and the corresponding physical mechanism has been demonstrated, where the second-order free surface waves dominates the process. Following experiments support the findings, revealing the influence of the different behaviors on breaking patterns, and the dependence of the breaking point on the external excitation amplitude.
 
-<div style="display: flex; justify-content: left;">
-  <img src="./images/vedio4.mp4" alt="Image 3" style="width: 300px;">
-</div>
+<video width="600" controls>
+  <source src="./images/vedio4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 <img src="../images/fig4.svg" alt="Figure 4" style="width: 1000px;">
 
