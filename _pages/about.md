@@ -21,7 +21,7 @@ This study focuses on liquid sloshing near secondary resonance. We formulated a 
   <img src="./images/vedio2.gif" alt="Image 3" style="width: 300px;">
 </div>
 
-<img src="../images/fig4.svg" alt="Figure 4" style="width: 400px;">
+<img src="../images/fig4.svg" alt="Figure 4" style="width: 1000px;">
 
 
 *Publication:*
