@@ -11,4 +11,6 @@ redirect_from:
 
 ## CV
 
-[View my CV](./files/cv-new-tem.pdf)
+<iframe src="./files/your_cv_file.pdf" width="100%" height="600px">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="./files/cv-new-tem.pdf">Download PDF</a>
+</iframe>
