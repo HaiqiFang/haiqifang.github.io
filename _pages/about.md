@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<div class="justify">
+	
 I am a first year PhD student in the department of Civil Engineering at Columbia University. I obtained my M.E. and B.E. at Sichuan Univeristy. 
 
 During my master’s program, I am supervised by [Prof. Pengzhi Lin](https://scholar.google.com/citations?user=3wRV9PEAAAAJ&hl=zh-CN&oi=ao) and [Prof. Philip L.-F. Liu](https://scholar.google.com/citations?user=Xs4JPWwAAAAJ&hl=zh-CN&oi=ao).
@@ -93,3 +94,6 @@ As a co-author, I was responsible for the formulation of the theoretical solutio
 *Publication:*
 
 1. Huiran Liu, **Haiqi Fang**, Pengzhi Lin, 2024. A theoretical model for wave attenuation by vegetation considering current effects. *Coast. Eng.*,  190: 104508. [doi: 10.1016/j.coastaleng.2024.104508](https://doi.org/10.1016/j.coastaleng.2024.104508)
+
+</div>
+</div>
