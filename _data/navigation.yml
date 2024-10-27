@@ -8,16 +8,16 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research"
+  - title: "Research Project1"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Research Project2"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Research Project3"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Research Project4"
     url: /year-archive/
     
   - title: "CV"
