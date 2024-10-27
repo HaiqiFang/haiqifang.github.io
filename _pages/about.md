@@ -20,7 +20,7 @@ My research interest includes coastal engineering, coastal oceanography and surf
 This study focuses on liquid sloshing near secondary resonance. We formulated a new closed-form analytical solution to study the difference of wave dynamics on the sup- and sub-sides of the secondary resonance. We discovered a phase transition as the exciation frequency exceeds the resonance point, and the corresponding physical mechanism has been demonstrated, where the second-order free surface waves dominates the process. A series of experiments were conducted to support the findings of the theory. 
 
 <div style="display: flex; justify-content: left;">
-  <img src="./images/vedio2.gif" alt="Image 3" style="width: 300px;">
+  <img src="./images/vedio2.gif" alt="Image 3" style="width: 1000px;">
 </div>
 
 <img src="../images/fig4.svg" alt="Figure 4" style="width: 1000px;">
@@ -54,7 +54,7 @@ Natural sandbars in coastal seabeds can reflect surface waves, and classical the
 However, in practice, real resonance typically occurs when the ratio is less than two, indicating a ‘downshift’ behavior. This has been observed both experimentally and numerically for decades, but the formative mechanism has remained unclear. Moreover, existing analytical solutions either lead to unbounded solutions at resonance or cannot predict the downshift. The practical significance and limitations in existing theories inspired me to develop a new theory. Finally, based on the multi-scale expansion method, I proposed new nonlinear coupled equations and closed-form analytical solutions. The solutions not only remain valid and bounded under any condition, but also effectively capture the downshift. My study further revealed the underlying mechanism of the downshift, which arises from wave re-reflection and modulation processes that lead to a detuning of wave speed.
 
 <div style="display: flex; justify-content: left;">
-  <img src="./images/vedio1.gif" alt="Image 3" style="width: 400px;">
+  <img src="./images/vedio1.gif" alt="Image 3" style="width: 1000px;">
 </div>
 
 
