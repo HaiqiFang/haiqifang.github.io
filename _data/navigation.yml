@@ -7,22 +7,8 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Research Project1"
-    url: /talks/    
-
-  - title: "Research Project2"
-    url: /teaching/    
-    
-  - title: "Research Project3"
-    url: /portfolio/
-        
-  - title: "Research Project4"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  
     
