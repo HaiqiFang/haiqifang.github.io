@@ -17,7 +17,7 @@ My research interest includes coastal engineering, coastal oceanography and surf
 
 ## The near-resonance liquid sloshing under surge exciation
 
-This study focuses on liquid sloshing near secondary resonance. We formulated a new closed-form analytical solution to study the difference of wave dynamics on the sup- and sub-sides of the secondary resonance. We discovered a phase transition as the exciation frequency exceeds the resonance point, and the corresponding physical mechanism has been demonstrated, where the second-order free surface waves dominates the process. A series of experiments were conducted to support the findings of the theory. 
+This study focuses on liquid sloshing near secondary resonance. We formulated a new closed-form analytical solution to study the difference of wave dynamics on the sup- and sub-sides of the secondary resonance. We discovered a phase transition as the exciation frequency exceeds the resonance point, and the corresponding physical mechanism has been demonstrated, where the second-order free surface waves dominates the process. Following experiments support the findings, revealing the influence of the different behaviors on breaking patterns, and the dependence of the breaking point on the external excitation amplitude.
 
 <div style="display: flex; justify-content: left;">
   <img src="./images/vedio2.gif" alt="Image 3" style="width: 1000px;">
