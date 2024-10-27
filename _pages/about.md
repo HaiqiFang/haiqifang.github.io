@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+<div class="about">
 
 I am a first year PhD student in the department of Civil Engineering at Columbia University. I obtained my M.E. and B.E. at Sichuan Univeristy. 
 
