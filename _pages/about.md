@@ -40,10 +40,10 @@ Natural sandbars in coastal seabeds can reflect surface waves, and classical the
 
 However, in practice, real resonance typically occurs when the ratio is less than two, indicating a ‘downshift’ behavior. This has been observed both experimentally and numerically for decades, but the formative mechanism has remained unclear. Moreover, existing analytical solutions either lead to unbounded solutions at resonance or cannot predict the downshift. The practical significance and limitations in existing theories inspired me to develop a new theory. Finally, based on the multi-scale expansion method, I proposed new nonlinear coupled equations and closed-form analytical solutions. The solutions not only remain valid and bounded under any condition, but also effectively capture the downshift. My study further revealed the underlying mechanism of the downshift, which arises from wave re-reflection and modulation processes that lead to a detuning of wave speed.
 
-<video width="320" height="180" controls>
-  <source src="../images/vedio1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="display: flex; justify-content: left;">
+  <img src="./images/vedio1.gif" alt="Image 3" style="width: 250px;">
+</div>
+
 
 *Publication:*
 
