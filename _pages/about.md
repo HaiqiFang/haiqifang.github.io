@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first year PhD student in the department of Civil Engineering at Columbia University. I obtained my M.E. and B.E. at Sichuan Univeristy. 
 
-During my master’s program, my supervisor is [Prof. Pengzhi Lin](https://scholar.google.com/citations?user=3wRV9PEAAAAJ&hl=zh-CN&oi=ao)，and my co-supervisor is [Prof. Philip L.-F. Liu](https://scholar.google.com/citations?user=Xs4JPWwAAAAJ&hl=zh-CN&oi=ao).
+During my master’s program, I am supervised by [Prof. Pengzhi Lin](https://scholar.google.com/citations?user=3wRV9PEAAAAJ&hl=zh-CN&oi=ao) and [Prof. Philip L.-F. Liu](https://scholar.google.com/citations?user=Xs4JPWwAAAAJ&hl=zh-CN&oi=ao).
 
 
 My research interest includes coastal engineering, coastal oceanography and surface gravity waves.
